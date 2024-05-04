@@ -26,6 +26,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
-fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntkk01&theme=dark)](https://git.io/streak-stats)
 
