@@ -27,6 +27,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 ### :fire: My Stats :
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-ntkk01)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-ntkk01)](https://github.com/anuraghazra/github-readme-stats)
 
 
